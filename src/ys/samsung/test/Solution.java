@@ -8,6 +8,7 @@ import java.io.FileInputStream;
  In any case, you can execute your program by running 'java Solution' command.
  */
 //************************************************
+//打飞机阿列克山大发就的可发就的发的
 class Solution {
 	public static void main(String args[]) throws Exception {
 		/*
